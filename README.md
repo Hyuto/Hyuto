@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Wahyu Setianto</h1>
 <h3 align="center">A Data Enthusiast, I have a lot of experience in processing data to gain insights and solve problems. I have deep experience in Python 🐍 and few other programming language like R and Javascript. I love building deep learning models to solve a problems. I'm interested on Data Science and Web Development.</h3>
 
-- 🔭 I’m currently open to work in role of **Data Scientist** and **Data Engineer**.
+- 🔭 I’m currently open to work in role of **Data Scientist** and **Machine Learning Engineer**.
 
 - 🌱 I’m currently learning **SQL, Pytorch, ONNX, etc**.
 
