@@ -27,6 +27,6 @@
 
 ![Hyuto top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuto&layout=compact&theme=dracula&hide=jupyter%20notebook,html,css)
 
-![Hyuto GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuto&show_icons=true&theme=dracula)
+![Hyuto GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuto&show_icons=true&hide_rank=true&theme=dracula)
 
 ![Hyuto commit strike](https://github-readme-streak-stats.herokuapp.com/?user=Hyuto&theme=dracula)
